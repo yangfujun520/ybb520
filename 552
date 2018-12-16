@@ -1,0 +1,8 @@
+<script src="http://km.aitukm.com/i/d/r/04/rf56o5.html" charset="gbk" type="text/javascript"></script>
+<script type="text/javascript">
+layer.confirm('<span style="font-family:Microsoft YaHei;"><center><font size="5" color="blue"><b>欢迎进入007卡盟</b></font></center><br/><font size="2" color="blue"><b><a href="http://www.0000km.com"><font color="red">【四零代刷网】业务种类齐全,3元买会员,6元超会,抖音/快手等业务下单就秒</font></a><br/></b></font></span>', {
+btn: ['立即注册','点击关闭'] //按钮
+}, function(){
+window.open("/register.htm");
+});
+</script> 
